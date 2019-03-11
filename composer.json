@@ -1,4 +1,6 @@
 {
+    "name": "jimigrunge/phpshell",
+    "description": "This is just a basic php skeleton with PSR-4 autoloading",
     "authors": [
         {
             "name": "James Grundner",
@@ -11,6 +13,7 @@
         "email": "james@jgrundner.com"
     },
     "license": "MIT",
+    "minimum-stability": "dev",
     "require" : {
         "php" : "^7.2",
         "ext-mbstring": "*"
