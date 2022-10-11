@@ -7,3 +7,7 @@
 ```bash
 composer create-project jimigrunge/phpshell <MYPROJECT> --prefer-dist
 ```
+
+## TODO
+
+Update to php version 8
